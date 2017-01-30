@@ -1,0 +1,25 @@
+body {
+    background-color: black;
+}
+p{
+    font-size: 120px;
+    color: whitesmoke;
+    line-height: 230px;
+margin-bottom: auto ;
+    text-align: left;
+}
+h1 {
+    color: yellow;
+    font-size: 300px;
+    text-align: center;
+}
+.credits {
+    color: blue;
+    text-decoration: underline;
+    cursor: pointer;
+    
+}
+#film-description {
+    font-style:italic;
+    font-size: 80px;
+}

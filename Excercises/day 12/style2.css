@@ -1,0 +1,42 @@
+.pink{
+    background-color: pink;
+    height: 100px;
+    width: 100%;
+    margin: 5px;
+}
+.red{
+   background-color: red;
+    height: 100px;
+    margin: 5px;
+    width: 100%;
+    float: left;
+    display: inline-block;
+}
+.green{
+    background-color: green;
+    height: 100px;
+    margin: 5px;
+    width: 100%;
+    float: left;
+    display: inline-block;
+}
+.blue{
+    background-color: blue;
+    height: 100px;
+    margin: 5px;
+    width: 100%;
+    float: left;
+    display: inline-block;
+}
+.brown{
+    background-color: brown;
+    height: 100px;
+    margin: 5px;
+    width: 100%;
+    float: left;
+    display: inline-block;
+}
+.body{
+    margin-left: 25%;
+    margin-right: 25%;
+}

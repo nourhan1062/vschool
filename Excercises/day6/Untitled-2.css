@@ -1,0 +1,43 @@
+*{
+    box-sizing: border-box;
+}
+.bigDiv{
+    margin: 0 auto;
+    height: 1000px;
+    width: 1500px;
+}
+.pinkDiv{
+    background-color: pink;
+    height: 25%;
+    width: 100%;
+    border: 5px white solid;
+    float: left;
+}
+.redDiv{
+    background-color: red;
+    height: 25%;
+    width: 25%;
+    border: 5px white solid;
+    float: left; 
+}
+.blueDiv{
+    background-color: blue;
+    height: 25%;
+    width: 50%;
+    border: 5px white solid;
+    float: left; 
+}
+.greenDiv{
+    background-color: green;
+    height: 25%;
+    width: 75%;
+    border: 5px white solid;
+    float: left; 
+}
+.brownDiv{
+    background-color: brown;
+    height: 25%;
+    width: 25%;
+    border: 5px white solid;
+    float: left; 
+}

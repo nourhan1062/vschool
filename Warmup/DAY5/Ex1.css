@@ -1,0 +1,22 @@
+.text {
+    text-align: center;
+    display: inline-block;
+    border-left-width: 50px;
+    font-size: 100px;
+    background-color: azure;
+    width: 850px;
+    vertical-align: top;
+}
+h1 {
+    font-size: 400px;
+    background-color: crimson;
+    text-align: center;
+}
+h2 {
+    font-size: 100px;s
+    background-color: aqua;
+    text-align: center;
+}
+#center {
+    text-align: center;
+}

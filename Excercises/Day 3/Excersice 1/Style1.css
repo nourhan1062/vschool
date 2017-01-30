@@ -1,0 +1,24 @@
+.class {
+    color: dodgerblue;
+    font-size: 30px;
+    border: 16px lightcoral solid;
+    background-color: deeppink;
+    text-align: center;
+}
+.Amr{
+    font-size:40px; 
+    color: deeppink;
+    border: 16px lightcoral  solid;
+    background-color: green;
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-top: 55px
+    padding: 20px;
+}
+.Soso{
+    font-size:60px; color: darkred;
+    background-color: brown;
+    text-align: center;
+    border: 20px black solid;
+}

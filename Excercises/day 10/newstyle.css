@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+}
+.center{
+    text-align: center;
+    display: inline-block;
+}
+.add{
+    background-color: magenta;
+}
+.subtract{
+    background-color: deepskyblue;
+}
+.times{
+    background-color: lawngreen;
+}
+.divition{
+    background-color: firebrick;
+}

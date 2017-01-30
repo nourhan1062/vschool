@@ -1,0 +1,28 @@
+*{
+    box-sizing: border-box;
+}
+.center{
+    text-align:center;
+    display: block;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.add{
+    background-color: #922A99;
+    text-align: center;  
+}
+.Subtract{
+    background-color: #5280B5;
+    text-align: center;
+}
+.Multiply{
+    background-color: #70C219;
+    text-align: center;
+}
+.division{
+    background-color: #E44940;
+    text-align: center;
+}

@@ -1,0 +1,40 @@
+.container-fluid {
+   padding: 0px !important;
+}
+.yellow{
+    background-color: yellow;
+    height: 125px;
+}
+body {
+  font-family: 'Kumar One', cursive;
+}
+.huge {
+    font-size: 80px;
+    color: orangered
+}
+.orangered {
+    background-color: orangered;
+    height: 350px;
+}
+.pic{
+    text-align: center;
+    padding: 1%;
+}
+.text{
+    text-align: center;
+    color: orangered;
+}
+h1 {
+    font-size: 60px;
+}
+p {
+    font-size: 20px;
+}
+.pad-10{
+    padding: 25px;
+}
+.icon{
+    height: 80px;
+    width:80px;
+
+}

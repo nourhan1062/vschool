@@ -1,0 +1,50 @@
+*{
+    box-sizing: border-box;
+}
+.bigDiv{
+     width: 1000px;
+    height: 4000px;
+    margin: 0 auto;
+}
+.pinkDiv{
+   background-color: pink;
+    border :5px white solid;
+    height: 100px;
+    width: 100%; 
+    float: left;
+}
+.redDiv{
+    background-color: fuchsia;
+    border :5px white solid;
+    height: 100px;
+    width: 25%;
+      float: left;
+   
+   
+}
+.blueDiv{
+    background-color: blue;
+    border :5px white solid;
+    height: 100px;
+    width: 50%;
+    display: inline-block;
+       float: left;
+
+
+}
+.greenDiv{
+    background-color: green;
+    border :5px white solid;
+    height: 100px;
+    width: 750px;
+    display: inline-block;
+       float: left;
+}
+.brownDiv{
+    background-color: brown;
+    border :5px white solid;
+    height: 100px;
+    width: 250px;
+    display: inline-block;
+       float: left;
+}

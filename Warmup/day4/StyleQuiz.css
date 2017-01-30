@@ -1,0 +1,31 @@
+body{
+    margin-right: 50px;
+    margin-left: auto;
+}
+h1 {
+    color: darkgreen
+}
+h1,h3 {
+    font-family: fantasy;
+   text-align: center;
+} 
+}
+a{
+    text-decoration: none;
+}
+div{
+    font-size: 30px;
+    line-height:   40px;
+}
+    
+.w {
+    text-transform: uppercase;
+}
+    a:hover {
+        text-decoration: underline;
+    }
+img{
+    float: left;
+    width: 400px;
+    height: 400px;
+}
